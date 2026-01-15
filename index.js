@@ -228,3 +228,4 @@
                 document.getElementById('message').value = '';
             }, 500);
         }
+        
